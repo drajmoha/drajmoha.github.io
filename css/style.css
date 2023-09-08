@@ -80,10 +80,7 @@ a:hover {
   height: 192px;
   margin-right: 4px;
   overflow: hidden;
-  position: absolute;
   border-radius: 50%;
-  top: 200px;
-  left: 850px;
 }
 
 .bg-image {
@@ -1282,8 +1279,4 @@ footer .credits a {
 
 #portfolio_two{
   position: absolute;
-}
-.skillallign{
-  position: absolute;
-  left: 125px;
 }
