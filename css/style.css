@@ -1280,3 +1280,18 @@ footer .credits a {
 #portfolio_two{
   position: absolute;
 }
+
+.container{
+  padding-bottom: 50px;
+}
+
+.linkcolor{
+  text-decoration-line: revert;
+  color: blue;
+} 
+
+.seemorelink{
+  text-align: end;
+  color: #08b7ef;
+  cursor: pointer;
+}
